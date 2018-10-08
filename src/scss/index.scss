@@ -1,0 +1,11 @@
+@import '../fonts/index.css';
+@import 'variables';
+
+html {
+  font-size: $basic-font-size;
+}
+
+h1 {
+  font-size: 3.2rem;
+  font-family: Roboto, sans-serif;
+}
